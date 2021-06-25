@@ -1,0 +1,15 @@
+.divDataGrid {
+    width: 75%;
+    margin: auto;
+}
+
+.divButtons{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 75%;
+    margin: auto;
+}
+
+.labelInputSearch{
+    margin-right: 20px;
+}
